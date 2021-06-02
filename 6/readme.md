@@ -1,3 +1,4 @@
-NIM : 1811500096
-Nama : Teuku Reynaldi 
-Kelompok : TI6J
+NIM : 1811500096 <br>
+Nama : Teuku Reynaldi <br>
+Kelompok : TI6J <br>
+
